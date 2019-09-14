@@ -10,4 +10,4 @@ I haven't tested this yet, at all. However, due to nature of libstd in Rust I wi
 ## Limitations
 This is a shim for 1.35.0 version of libstd. That's just because 1.35.0 is the latest version of Rust for FreeBSD that has pre-built components like RLS.
 
-Once I confirm this actually works I will tart work on making is available for current stable rust.
+Once I confirm this actually works I will start work on making is available for current stable rust.
